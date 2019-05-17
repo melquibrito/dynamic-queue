@@ -11,7 +11,6 @@ public class DynamicQueue <T> {
             this.previous = previous;
             this.next = next;
         }
-        
         public Element() {}
         
     }
