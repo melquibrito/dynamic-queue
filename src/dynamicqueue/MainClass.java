@@ -15,6 +15,7 @@ public class MainClass {
         System.out.println(queue);
         queue.remove();
         System.out.println(queue);
+        
     }
     
 }
